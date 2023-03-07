@@ -1,2 +1,2 @@
 # EDA
-Explanatory Data Analysis
+Exploratory Data Analysis
